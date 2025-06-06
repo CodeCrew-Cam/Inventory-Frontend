@@ -2,7 +2,7 @@
 
 ---
 
-````markdown
+```markdown
 # Inventory Web App
 
 A responsive inventory management frontend built with **React** and **Bootstrap**.
@@ -18,7 +18,7 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/CodeCrew-Cam/Inventory-Frontend.git
 cd Inventory-Frontend
-````
+```
 
 ### 2. Install Dependencies
 
