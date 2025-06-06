@@ -1,4 +1,4 @@
-Sure! Here's an edited, **simple and clear `README.md`** that starts from cloning the project — great for teammates or collaborators:
+**simple and clear `README.md`** that starts from cloning the project — great for teammates or collaborators:
 
 ---
 
